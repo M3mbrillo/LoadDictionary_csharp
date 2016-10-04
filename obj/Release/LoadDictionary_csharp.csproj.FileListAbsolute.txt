@@ -1,0 +1,5 @@
+c:\users\facundo\documents\visual studio 2015\Projects\LoadDictionary_csharp\LoadDictionary_csharp\bin\Release\LoadDictionary_csharp.exe.config
+c:\users\facundo\documents\visual studio 2015\Projects\LoadDictionary_csharp\LoadDictionary_csharp\bin\Release\LoadDictionary_csharp.exe
+c:\users\facundo\documents\visual studio 2015\Projects\LoadDictionary_csharp\LoadDictionary_csharp\bin\Release\LoadDictionary_csharp.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\LoadDictionary_csharp\LoadDictionary_csharp\obj\Release\LoadDictionary_csharp.exe
+c:\users\facundo\documents\visual studio 2015\Projects\LoadDictionary_csharp\LoadDictionary_csharp\obj\Release\LoadDictionary_csharp.pdb
